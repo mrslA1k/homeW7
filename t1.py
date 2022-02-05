@@ -1,4 +1,5 @@
-﻿import click
+print("CLI приложение, которое показывает сколько дней до НГ либо рандомнамя игрушка")
+import click
 import datetime
 import random
 from enum import Enum
